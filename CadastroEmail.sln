@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadastroEmail", "CadastroEmail\CadastroEmail.csproj", "{99DB6729-7B9E-4E9C-8475-1CF512F6B9CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99DB6729-7B9E-4E9C-8475-1CF512F6B9CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99DB6729-7B9E-4E9C-8475-1CF512F6B9CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99DB6729-7B9E-4E9C-8475-1CF512F6B9CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99DB6729-7B9E-4E9C-8475-1CF512F6B9CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6D0F445-A85B-430E-BD84-B68941670E68}
+	EndGlobalSection
+EndGlobal
